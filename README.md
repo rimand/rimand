@@ -1,13 +1,8 @@
 <!-- ### Hi there 👋 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimand&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimand&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimand)](https://github.com/anuraghazra/github-readme-stats) -->
-
-
-
-
+![rimand's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimand&show_icons=true&theme=radical)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimand&layout=compact&show_icons=true&theme=radical)](https://github.com/rimand/github-readme-stats)
 
 
 <!--
