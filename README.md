@@ -20,12 +20,12 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rimand&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimand&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimand&theme=dark" alt="rimand" /></p>
+| <a><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rimand&theme=dark" alt="rimand" /></p></a> |
+| ------------- |
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimand&layout=compact&show_icons=true&theme=radical)](https://github.com/rimand/github-readme-stats) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rimand&label=Profile%20views&color=0e75b6&style=flat-square" alt="rimand" /> </p>
-
 
 <!--
 **rimand/rimand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
