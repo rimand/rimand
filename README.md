@@ -4,7 +4,7 @@
 
 <h3 align="center">Interactive Engineer</h3>
 
-- 📷 I post videos on [https://www.youtube.com/channel/UC0-pBFtHG6KjIsfe1txjh9g](https://www.youtube.com/channel/UC0-pBFtHG6KjIsfe1txjh9g)
+- 📷 I post videos on [https://www.youtube.com/@Vicha.gap_](https://www.youtube.com/@Vicha.gap_)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
