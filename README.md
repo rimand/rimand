@@ -1,94 +1,82 @@
 <div align="center">
-  
-# 👋 Hi, I'm Gap (Vichagorn)
 
-### 🎨 Interactive Engineer | Creative Technologist
+# Vichagorn · Gap
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Vicha.gap_)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vicha.gap/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vichagorn-lupponglung-0671b510b/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimand)
+**Interactive engineer · Creative technologist**
 
-📍 **Bangkok, Thailand** | 🎓 **KU72 E68**
+Bangkok, Thailand · KU72 E68
 
-</div>
-
----
-
-## 🚀 About Me
-
-I'm an **Interactive Engineer** passionate about creating immersive digital experiences that blend technology with creativity. I love exploring the intersection of code, design, and interactive media.
-
-- 🎥 Creating content on [YouTube](https://www.youtube.com/@Vicha.gap_) about interactive technologies
-- 💻 Building projects with Python, C++, and creative coding frameworks
-- 🔧 Experimenting with TouchDesigner, ESP32, and embedded systems
-- 🌱 Always learning new ways to make technology more interactive and engaging
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rimand&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rimand&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-![Profile Views](https://komarev.com/ghpvc/?username=rimand&color=58A6FF&style=flat-square)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Vicha.gap_)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vicha.gap/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vichagorn-lupponglung-0671b510b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rimand)
 
 </div>
 
----
+<br>
 
-## 🛠️ Tech Stack
+## About
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+I build immersive digital experiences where code, design, and interactive media meet. I share experiments and workflows on YouTube, ship tools and prototypes in Python and C++, and work a lot with creative coding, TouchDesigner, and embedded hardware (ESP32, Arduino).
 
-### Tools & Platforms
-![TouchDesigner](https://img.shields.io/badge/TouchDesigner-000000?style=for-the-badge&logo=derivative&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<br>
 
----
+## GitHub
 
-## 🔥 Featured Projects
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### 🎨 [myTouchdesigner](https://github.com/rimand/myTouchdesigner)
-Interactive media projects built with TouchDesigner
+<img src="https://github-readme-stats.vercel.app/api?username=rimand&show_icons=true&theme=github_dark_dimmed&hide_border=true&hide_title=false&rank_icon=github" alt="GitHub stats" width="100%" />
 
-### ⚡ [ESP32_Project](https://github.com/rimand/ESP32_Project)
-Embedded systems and IoT projects using ESP32
+</td>
+<td valign="top" width="50%">
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimand&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" alt="Top languages" width="100%" />
 
-## 📈 Contribution Graph
+</td>
+</tr>
+</table>
 
 <div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rimand&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rimand&theme=github-dark-dimmed&hide_border=true&area=true" alt="Contribution graph" width="98%" />
+
+<img src="https://komarev.com/ghpvc/?username=rimand&color=6e7681&label=profile+views&style=flat-square" alt="Profile views" />
 
 </div>
 
----
+<br>
 
-## 💬 Let's Connect!
+## Stack
 
-I'm always open to discussing new projects, creative ideas, or opportunities to collaborate.
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- 📧 Reach out via [LinkedIn](https://www.linkedin.com/in/vichagorn-lupponglung-0671b510b/)
-- 🎥 Check out my [YouTube channel](https://www.youtube.com/@Vicha.gap_)
-- 📸 Follow me on [Instagram](https://www.instagram.com/vicha.gap/)
+**Tools & hardware**  
+![TouchDesigner](https://img.shields.io/badge/TouchDesigner-000000?style=flat-square&logo=derivative&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
----
+<br>
+
+## Featured repos
+
+| Repo | Focus |
+|------|--------|
+| [**myTouchdesigner**](https://github.com/rimand/myTouchdesigner) | Interactive media & TouchDesigner |
+| [**ESP32_Project**](https://github.com/rimand/ESP32_Project) | ESP32 / IoT & embedded |
+
+<br>
+
+## Connect
+
+Open to collaborations, creative tech, and interactive projects — best reach is [LinkedIn](https://www.linkedin.com/in/vichagorn-lupponglung-0671b510b/) or [YouTube](https://www.youtube.com/@Vicha.gap_).
 
 <div align="center">
-  
-### ⚡ Fun Fact
-*I believe the best code is the one that creates experiences people remember.*
 
-Made with ❤️ in Bangkok
+<sub>Made in Bangkok</sub>
 
 </div>
