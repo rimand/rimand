@@ -54,6 +54,12 @@ I build immersive digital experiences where code, design, and interactive media 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rimand&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="98%" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rimand/rimand/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rimand/rimand/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/rimand/rimand/output/snake.svg" alt="Contribution snake animation" width="98%" />
+</picture>
+
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=rimand&color=7aa2f7&label=profile+views&style=for-the-badge" alt="Profile views" />
