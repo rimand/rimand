@@ -1,0 +1,35 @@
+name: Generate metrics
+
+on:
+  schedule:
+    - cron: "30 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Overview
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.svg
+          user: rimand
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Bangkok
+
+      - name: Languages and calendar
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics-languages.svg
+          user: rimand
+          base: ""
+          config_timezone: Asia/Bangkok
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
