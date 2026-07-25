@@ -27,12 +27,24 @@ I build immersive digital experiences where code, design, and interactive media 
 <tr>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rimand&show_icons=true&theme=github_dark_dimmed&hide_border=true&hide_title=false&rank_icon=github" alt="GitHub stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=rimand&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" width="100%" />
 
 </td>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimand&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8" alt="Top languages" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rimand&theme=tokyonight&hide_border=true" alt="GitHub streak" width="100%" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimand&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" width="100%" />
+
+</td>
+<td valign="top" width="50%">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rimand&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
 
 </td>
 </tr>
@@ -40,9 +52,7 @@ I build immersive digital experiences where code, design, and interactive media 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rimand&theme=github-dark-dimmed&hide_border=true&area=true" alt="Contribution graph" width="98%" />
-
-<img src="https://komarev.com/ghpvc/?username=rimand&color=6e7681&label=profile+views&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=rimand&color=7aa2f7&label=profile+views&style=for-the-badge" alt="Profile views" />
 
 </div>
 
