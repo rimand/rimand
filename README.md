@@ -44,13 +44,17 @@ I build immersive digital experiences where code, design, and interactive media 
 </td>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rimand&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rimand&theme=tokyonight" alt="Repos per language" width="100%" />
 
 </td>
 </tr>
 </table>
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rimand&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="98%" />
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=rimand&color=7aa2f7&label=profile+views&style=for-the-badge" alt="Profile views" />
 
