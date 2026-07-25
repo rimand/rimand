@@ -27,7 +27,7 @@ I build immersive digital experiences where code, design, and interactive media 
 <tr>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rimand&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" width="100%" />
+<img src="https://github-readme-stats-eta-nine.vercel.app/api?username=rimand&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" width="100%" />
 
 </td>
 <td valign="top" width="50%">
@@ -39,7 +39,7 @@ I build immersive digital experiences where code, design, and interactive media 
 <tr>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimand&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" width="100%" />
+<img src="https://github-readme-stats-eta-nine.vercel.app/api/top-langs/?username=rimand&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" width="100%" />
 
 </td>
 <td valign="top" width="50%">
