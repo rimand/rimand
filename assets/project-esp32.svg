@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="240" viewBox="0 0 560 240" role="img" aria-labelledby="title desc">
+  <title id="title">ESP32_Project — Physical computing</title>
+  <desc id="desc">ESP32 experiments in IoT and embedded hardware. Explore the repository.</desc>
+  <rect width="560" height="240" rx="12" fill="#122a35"/>
+  <g fill="none" stroke="#7dcfff" stroke-width="2">
+    <path d="M418 35v15m20-15v15m20-15v15m-40 66v15m20-15v15m20-15v15M390 64h15m-15 19h15m-15 19h15m66-38h15m-15 19h15m-15 19h15"/>
+    <rect x="405" y="50" width="66" height="66" rx="7" fill="#204654"/>
+    <path d="m423 75 15-9 15 9v17l-15 9-15-9z"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="28" y="46" fill="#7dcfff" font-size="16">Physical computing</text>
+    <text x="28" y="99" fill="#f0f2ff" font-size="30" font-weight="700">ESP32_Project</text>
+    <text x="28" y="142" fill="#c1d7df" font-size="17">Code that connects to the real world.</text>
+    <text x="28" y="207" fill="#7dcfff" font-size="16">ESP32 / IoT / Embedded</text>
+    <text x="414" y="207" fill="#f0f2ff" font-size="16">Explore ↗</text>
+  </g>
+</svg>

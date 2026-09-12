@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="240" viewBox="0 0 560 240" role="img" aria-labelledby="title desc">
+  <title id="title">myTouchdesigner — Interactive media</title>
+  <desc id="desc">TouchDesigner experiments in creative coding and interactive media. Explore the repository.</desc>
+  <rect width="560" height="240" rx="12" fill="#191c32"/>
+  <g fill="none" stroke="#bb9af7" stroke-width="2">
+    <path d="M355 55h49l27 34h63M355 110h49l27-21M431 89v53h63"/>
+    <rect x="332" y="43" width="35" height="24" rx="4" fill="#30304f"/>
+    <rect x="332" y="98" width="35" height="24" rx="4" fill="#30304f"/>
+    <rect x="476" y="77" width="35" height="24" rx="4" fill="#30304f"/>
+    <rect x="476" y="130" width="35" height="24" rx="4" fill="#30304f"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="28" y="46" fill="#bb9af7" font-size="16">Interactive media</text>
+    <text x="28" y="99" fill="#f0f2ff" font-size="30" font-weight="700">myTouchdesigner</text>
+    <text x="28" y="142" fill="#c1c8e0" font-size="17">Creative code. Visual experiments.</text>
+    <text x="28" y="207" fill="#bb9af7" font-size="16">TouchDesigner</text>
+    <text x="414" y="207" fill="#f0f2ff" font-size="16">Explore ↗</text>
+  </g>
+</svg>

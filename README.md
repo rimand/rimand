@@ -66,53 +66,39 @@ I build immersive digital experiences where code, design, and interactive media 
 </tr>
 </table>
 
-<div align="center">
+## From pixels to circuits
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rimand&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="98%" />
+The tools I use, and the things I build with them.
+
+**Creative code** · Python / C++ / JavaScript<br>
+**Visuals & hardware** · TouchDesigner / ESP32 / Arduino
+
+<p align="center">
+  <a href="https://github.com/rimand/myTouchdesigner"><img src="./assets/project-touchdesigner.svg" alt="myTouchdesigner — creative coding and interactive media. Explore repository." width="49%" /></a>
+  <a href="https://github.com/rimand/ESP32_Project"><img src="./assets/project-esp32.svg" alt="ESP32_Project — IoT and embedded hardware. Explore repository." width="49%" /></a>
+</p>
+
+<details>
+<summary>A little contribution snake 🐍</summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rimand/rimand/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rimand/rimand/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/rimand/rimand/output/snake.svg" alt="Contribution snake animation" width="98%" />
+  <img src="https://raw.githubusercontent.com/rimand/rimand/output/snake.svg" alt="Contribution snake animation" width="100%" />
 </picture>
 
-<br><br>
+</details>
 
-<img src="https://komarev.com/ghpvc/?username=rimand&color=7aa2f7&label=profile+views&style=for-the-badge" alt="Profile views" />
-
-</div>
-
-<br>
-
-## My creative toolkit
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Tools & hardware**  
-![TouchDesigner](https://img.shields.io/badge/TouchDesigner-000000?style=flat-square&logo=derivative&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-<br>
-
-## Selected projects
-
-| Repo | Focus |
-|------|--------|
-| [**myTouchdesigner**](https://github.com/rimand/myTouchdesigner) | Interactive media & TouchDesigner |
-| [**ESP32_Project**](https://github.com/rimand/ESP32_Project) | ESP32 / IoT & embedded |
-
-<br>
-
-## Connect
-
-Open to collaborations, creative tech, and interactive projects — best reach is [LinkedIn](https://www.linkedin.com/in/vichagorn-lupponglung-0671b510b/) or [YouTube](https://www.youtube.com/@Vicha.gap_).
+---
 
 <div align="center">
 
-<sub>Made in Bangkok</sub>
+### Have an idea that goes beyond the screen?
+
+Let's build something interactive.
+
+[**Talk on LinkedIn ↗**](https://www.linkedin.com/in/vichagorn-lupponglung-0671b510b/) &nbsp; · &nbsp; [Watch my experiments on YouTube ↗](https://www.youtube.com/@Vicha.gap_)
+
+<sub>Made in Bangkok · Code, design & a little curiosity.</sub>
 
 </div>
