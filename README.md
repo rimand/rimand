@@ -1,8 +1,8 @@
 <div align="center">
 
-# Vichagorn · Gap
+<img src="./assets/profile-header.svg" alt="Vichagorn / Gap — Creative technologist. Building experiences beyond the screen." width="100%" />
 
-**Interactive engineer · Creative technologist**
+**Interactive experiences · Creative code · Connected hardware**
 
 Bangkok, Thailand · KU72 E68
 
@@ -21,7 +21,23 @@ I build immersive digital experiences where code, design, and interactive media 
 
 <br>
 
-## GitHub
+## Contribution skyline
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="My GitHub contributions rendered as a 3D skyline" width="100%" />
+</picture>
+
+<sub>A year of building, one contribution at a time. Refreshed daily.</sub>
+
+</div>
+
+<!-- The profile-3d workflow generates these SVGs on its first run after push. -->
+
+## GitHub / by the numbers
 
 <table>
 <tr>
@@ -32,7 +48,7 @@ I build immersive digital experiences where code, design, and interactive media 
 </td>
 <td valign="top" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rimand&theme=tokyonight&hide_border=true" alt="GitHub streak" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=rimand&theme=tokyonight&hide_border=true" alt="GitHub streak" width="100%" />
 
 </td>
 </tr>
@@ -68,7 +84,7 @@ I build immersive digital experiences where code, design, and interactive media 
 
 <br>
 
-## Stack
+## My creative toolkit
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -82,7 +98,7 @@ I build immersive digital experiences where code, design, and interactive media 
 
 <br>
 
-## Featured repos
+## Selected projects
 
 | Repo | Focus |
 |------|--------|

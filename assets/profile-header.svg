@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Vichagorn / Gap — Creative technologist</title>
+  <desc id="desc">A midnight blue banner with an isometric sculpture in violet and cyan. Code, design, and physical computing. Bangkok, Thailand.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1224"/><stop offset="1" stop-color="#1b2042"/></linearGradient>
+    <linearGradient id="top"><stop stop-color="#bb9af7"/><stop offset="1" stop-color="#7dcfff"/></linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#414d78" stroke-opacity=".22"/></pattern>
+  </defs>
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="64" y="65" fill="#7dcfff" font-size="13" letter-spacing="4">CODE / DESIGN / PHYSICAL COMPUTING</text>
+    <text x="60" y="152" fill="#eef2ff" font-size="65" font-weight="700">Vichagorn<tspan fill="#bb9af7"> / Gap</tspan></text>
+    <text x="64" y="201" fill="#b8c4e5" font-size="24">Building experiences beyond the screen.</text>
+    <text x="64" y="283" fill="#7dcfff" font-size="14" letter-spacing="2">CREATIVE TECHNOLOGIST</text>
+    <text x="64" y="309" fill="#9aa8cd" font-size="13">BANGKOK, THAILAND · KU72 E68</text>
+  </g>
+  <g stroke="#10172e" stroke-width="2" stroke-linejoin="round">
+    <path d="m815 251 140-81 140 81-140 81z" fill="#232e50"/>
+    <path d="m845 165 65 38v78l-65-38z" fill="#6556ac"/><path d="m910 203 65-38v78l-65 38z" fill="#354b83"/><path d="m845 165 65-38 65 38-65 38z" fill="url(#top)"/>
+    <path d="m933 92 65 38v126l-65-38z" fill="#7a65c1"/><path d="m998 130 65-38v126l-65 38z" fill="#426996"/><path d="m933 92 65-38 65 38-65 38z" fill="url(#top)"/>
+    <path d="m981 250 41 24v32l-41-24z" fill="#6556ac"/><path d="m1022 274 41-24v32l-41 24z" fill="#354b83"/><path d="m981 250 41-24 41 24-41 24z" fill="url(#top)"/>
+  </g>
+</svg>
