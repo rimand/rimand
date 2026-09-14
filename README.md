@@ -78,6 +78,10 @@ The tools I use, and the things I build with them.
   <a href="https://github.com/rimand/ESP32_Project"><img src="./assets/project-esp32.svg" alt="ESP32_Project — IoT and embedded hardware. Explore repository." width="49%" /></a>
 </p>
 
+### Tools you can use
+
+- [**Merge-PDF**](https://github.com/rimand/Merge-PDF) — Merge, reorder, rotate, and select PDF pages in your browser without uploading your files to a server. Includes a portable Windows app.
+
 <details>
 <summary>A little contribution snake 🐍</summary>
 
