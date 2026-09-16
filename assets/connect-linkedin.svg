@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="52" viewBox="0 0 220 52" role="img" aria-labelledby="title">
+  <title id="title">Let's talk on LinkedIn</title>
+  <rect width="220" height="52" rx="10" fill="#bb9af7"/>
+  <g fill="#151b30" font-family="Segoe UI, Arial, sans-serif">
+    <text x="20" y="33" font-size="20" font-weight="700">in</text>
+    <text x="53" y="32" font-size="15" font-weight="600">Let's talk</text>
+  </g>
+  <path d="M185 32l11-11m-10 0h10v10" fill="none" stroke="#151b30" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

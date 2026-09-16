@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="52" viewBox="0 0 220 52" role="img" aria-labelledby="title">
+  <title id="title">Watch my experiments on YouTube</title>
+  <rect x="0.5" y="0.5" width="219" height="51" rx="9.5" fill="#151b30" stroke="#68779c"/>
+  <rect x="18" y="18" width="24" height="16" rx="5" fill="#7dcfff"/>
+  <path d="M28 22l7 4-7 4z" fill="#151b30"/>
+  <text x="53" y="32" fill="#eef2ff" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Watch experiments</text>
+</svg>

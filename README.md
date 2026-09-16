@@ -78,27 +78,27 @@ The tools I use, and the things I build with them.
   <a href="https://github.com/rimand/ESP32_Project"><img src="./assets/project-esp32.svg" alt="ESP32_Project — IoT and embedded hardware. Explore repository." width="49%" /></a>
 </p>
 
-<details>
-<summary>A little contribution snake 🐍</summary>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rimand/rimand/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rimand/rimand/output/snake.svg" />
-  <img src="https://raw.githubusercontent.com/rimand/rimand/output/snake.svg" alt="Contribution snake animation" width="100%" />
-</picture>
-
-</details>
-
 ---
 
 <div align="center">
 
-### Have an idea that goes beyond the screen?
+<br>
 
-Let's build something interactive.
+## Let's make something you can interact with.
 
-[**Talk on LinkedIn ↗**](https://www.linkedin.com/in/vichagorn-lupponglung-0671b510b/) &nbsp; · &nbsp; [Watch my experiments on YouTube ↗](https://www.youtube.com/@Vicha.gap_)
+Have a project in mind? Let's connect.<br>
+Or follow along as I experiment with code, visuals, and hardware.
 
-<sub>Made in Bangkok · Code, design & a little curiosity.</sub>
+<br>
+
+<a href="https://www.linkedin.com/in/vichagorn-lupponglung-0671b510b/"><img src="./assets/connect-linkedin.svg" alt="Let's talk on LinkedIn" width="220" height="52" /></a>
+&nbsp;
+<a href="https://www.youtube.com/@Vicha.gap_"><img src="./assets/connect-youtube.svg" alt="Watch my experiments on YouTube" width="220" height="52" /></a>
+
+<br><br>
+
+<sub>Bangkok, Thailand &nbsp; / &nbsp; Made with code &amp; curiosity.</sub>
+
+<br><br>
 
 </div>
