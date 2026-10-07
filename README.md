@@ -80,6 +80,7 @@ The tools I use, and the things I build with them.
 
 ### Tools you can use
 
+- [**Labeling / Label Maker**](https://github.com/rimand/Labeling) — Design and print label sheets, wire labels, QR codes, and barcodes in your browser. Includes auto numbering, Excel/CSV input, and SVG/DXF die-line export. [**Open the app ↗**](https://rimand.github.io/Labeling/)
 - [**Merge-PDF**](https://github.com/rimand/Merge-PDF) — Merge, reorder, rotate, and select PDF pages in your browser without uploading your files to a server. Includes a portable Windows app.
 
 ---
